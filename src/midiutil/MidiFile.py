@@ -10,7 +10,7 @@
 #              software is distributed.
 # -----------------------------------------------------------------------------
 
-from __future__ import division, print_function
+
 import math
 import struct
 import warnings
